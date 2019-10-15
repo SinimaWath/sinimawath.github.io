@@ -4,6 +4,7 @@
  - Телефон: +79263803826
  - github: https://github.com/SinimaWath
  - gitlab: https://gitlab.com/sinimawath
+ 
 ## Образование
 ### МГТУ им. Н.Э. Баумана
   - Факультет: ИУ
