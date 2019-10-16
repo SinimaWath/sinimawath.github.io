@@ -2,8 +2,8 @@
 ## Контактная информация
  - Email: sinimawath@gmail.com
  - Телефон: +79263803826
- - github: https://github.com/SinimaWath
- - gitlab: https://gitlab.com/sinimawath
+ - github: [https://github.com/SinimaWath](https://github.com/SinimaWath)
+ - gitlab: [https://gitlab.com/sinimawath](https://gitlab.com/sinimawath)
     
 ## Место работы
 ### Почта Mail.ru
@@ -23,7 +23,7 @@
 ### Шахматы
   
   - Описание: Шахматы с искусственным интелектом и c 3 уровнями сложностей. С возможностью играть мультиплеер онлайн и офлайн. Реализованы mobile-first и offline-first подходом. 
-  - Репозиторий: (https://github.com/frontend-park-mail-ru/2018_2_parashutnaya_molitva)
+  - Репозиторий: [https://github.com/frontend-park-mail-ru/2018_2_parashutnaya_molitva](https://github.com/frontend-park-mail-ru/2018_2_parashutnaya_molitva)
  
   - Роль: Фронтенд + реализация логики поиска/подбора/старта игровых комнат на Go
   
@@ -72,8 +72,8 @@
   - Код-ревью
     
   Пример проекта, который я вел как ментор: 
-  - Сайт: https://colors-game.ru/
-  - Репозиторий: https://github.com/frontend-park-mail-ru/2019_1_OPG_plus_2
+  - Сайт: [https://colors-game.ru/](https://colors-game.ru/)
+  - Репозиторий: [https://github.com/frontend-park-mail-ru/2019_1_OPG_plus_2](https://github.com/frontend-park-mail-ru/2019_1_OPG_plus_2)
   
 ## Образование
 ### МГТУ им. Н.Э. Баумана
