@@ -1,7 +1,6 @@
 # Тарасов Владислав Юрьевич
 ## Контактная информация
  - Email: sinimawath@gmail.com
- - Телефон: +79263803826
  - github: [https://github.com/SinimaWath](https://github.com/SinimaWath)
  - gitlab: [https://gitlab.com/sinimawath](https://gitlab.com/sinimawath)
     
