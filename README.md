@@ -40,7 +40,7 @@
 
 ### Задачи Mail.ru
   - Роль: Главный фронтенд разработчик.
-  - Где: http://todo.mail.ru/
+  - Где: [https://todo.mail.ru/](https://todo.mail.ru/)
   - Стэк и технологии:
     - React
     - Redux saga
