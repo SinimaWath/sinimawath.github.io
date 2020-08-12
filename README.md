@@ -75,6 +75,7 @@
     
 ### Bucket Api (Незаконченный)
   - Описание: api для ios приложения.
+  - Где: (github)[https://github.com/SinimaWath/BucketApi]
   - Роль: Бэкенд
   - Стэк:
     - NodeJs
