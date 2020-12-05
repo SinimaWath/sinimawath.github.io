@@ -6,22 +6,18 @@
  - linkedin: [https://cutt.ly/Bd0L54s](https://cutt.ly/Bd0L54s)
     
 ## Место работы
-### Почта Mail.ru
-  - Роль: Младший разработчик
-  - С января 2019 года
+### Текущее место работы -> Яндекс. Кинопоиск
+  - Роль: Разработчик интерфейсов.
   - Стэк: 
     - React
-    - Vanilla JS
-    - Redux
-    - Redux-saga 
-    - MobX 
-    - PostCSS
-    - TS/JS
+    - Apollo
+    - Graphql
+    - Redux/Redux-saga 
+    - TypeScript
     - и многое другое
     
 ### Календарь, Задачи, Почта Mail.ru
   - Роль: Фуллстек разработчик
-  - С января 2020 года
   - Фронт Стэк: 
     - React
     - Redux
@@ -34,6 +30,18 @@
     - Golang
     - Python
     - Kuber
+    - и многое другое
+    
+### Почта Mail.ru
+  - Роль: Младший разработчик
+  - Стэк: 
+    - React
+    - Vanilla JS
+    - Redux
+    - Redux-saga 
+    - MobX 
+    - PostCSS
+    - TS/JS
     - и многое другое
 
 ## Мои проекты:
